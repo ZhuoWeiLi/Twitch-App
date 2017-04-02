@@ -1,0 +1,90 @@
+body {
+  background-color: #6441A5;
+}
+
+.logo {
+  width: 100%;
+}
+
+.well {
+  background-color: #202020;
+}
+
+.header {
+  color: white;
+  text-align: center;
+}
+
+#toggle {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+  margin: 2%;
+  width: 25%;
+  text-align: center;
+  border-radius: 90%;
+  cursor: pointer;
+  
+}
+
+#off {
+  background-color: red;
+}
+
+#on {
+  background-color: green;
+}
+
+#all {
+  background-color: gray;
+}
+
+#list {
+  color: white;
+}
+
+#list:last-child {
+    margin-bottom: 20px;
+}
+
+.streamOff {
+  background-color: #1799B5;
+}
+
+.streamOn {
+  background-color: #228B22;
+}
+
+.channel {
+  border-style: solid;
+}
+
+.icon {
+  width: 10%;
+  margin: 2%;
+  display: inline-block;
+  border-radius: 50%;
+ 
+}
+
+.name {
+  vertical-align:middle;
+  width: 25%;
+  text-align:center;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.status {
+  vertical-align:middle;
+  text-align:center;
+  width: 61%;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
