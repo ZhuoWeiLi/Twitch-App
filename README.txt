@@ -1,3 +1,4 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/Slayingshot/pen/VpBVBQ.
+Twitch App allowing the user to see currently available streamers on twitch.tv.
+Can be viewed at: http://codepen.io/Slayingshot/pen/VpBVBQ.
 
  
